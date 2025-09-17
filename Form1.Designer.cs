@@ -43,8 +43,14 @@
             chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             label1 = new Label();
             button1 = new Button();
+            menuStrip1 = new MenuStrip();
+            масивиToolStripMenuItem = new ToolStripMenuItem();
+            одновимірнийМасивToolStripMenuItem = new ToolStripMenuItem();
+            двовимірнийМасивToolStripMenuItem = new ToolStripMenuItem();
+            unitTestToolStripMenuItem = new ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)chart1).BeginInit();
+            menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
             // textBox1
@@ -54,7 +60,6 @@
             textBox1.Size = new Size(125, 27);
             textBox1.TabIndex = 0;
             textBox1.Text = "-5.2";
-      
             // 
             // textBox2
             // 
@@ -63,7 +68,6 @@
             textBox2.Size = new Size(125, 27);
             textBox2.TabIndex = 1;
             textBox2.Text = "11.7";
-          
             // 
             // textBox3
             // 
@@ -72,7 +76,6 @@
             textBox3.Size = new Size(125, 27);
             textBox3.TabIndex = 2;
             textBox3.Text = "0.1";
-        
             // 
             // textBox4
             // 
@@ -81,7 +84,6 @@
             textBox4.Size = new Size(125, 27);
             textBox4.TabIndex = 3;
             textBox4.Text = "0.5";
-        
             // 
             // label2
             // 
@@ -100,7 +102,6 @@
             label3.Size = new Size(17, 20);
             label3.TabIndex = 7;
             label3.Text = "h";
-         
             // 
             // label4
             // 
@@ -120,6 +121,7 @@
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.Size = new Size(359, 331);
             dataGridView1.TabIndex = 9;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
             // x
             // 
@@ -157,7 +159,6 @@
             label1.Size = new Size(26, 20);
             label1.TabIndex = 11;
             label1.Text = "Xn";
-           
             // 
             // button1
             // 
@@ -169,6 +170,43 @@
             button1.Text = "Розрахунок";
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
+            // 
+            // menuStrip1
+            // 
+            menuStrip1.ImageScalingSize = new Size(20, 20);
+            menuStrip1.Items.AddRange(new ToolStripItem[] { масивиToolStripMenuItem, unitTestToolStripMenuItem });
+            menuStrip1.Location = new Point(0, 0);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Size = new Size(960, 28);
+            menuStrip1.TabIndex = 13;
+            menuStrip1.Text = "menuStrip1";
+            // 
+            // масивиToolStripMenuItem
+            // 
+            масивиToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { одновимірнийМасивToolStripMenuItem, двовимірнийМасивToolStripMenuItem });
+            масивиToolStripMenuItem.Name = "масивиToolStripMenuItem";
+            масивиToolStripMenuItem.Size = new Size(77, 24);
+            масивиToolStripMenuItem.Text = "Масиви";
+            // 
+            // одновимірнийМасивToolStripMenuItem
+            // 
+            одновимірнийМасивToolStripMenuItem.Name = "одновимірнийМасивToolStripMenuItem";
+            одновимірнийМасивToolStripMenuItem.Size = new Size(244, 26);
+            одновимірнийМасивToolStripMenuItem.Text = "Одновимірний масив";
+            одновимірнийМасивToolStripMenuItem.Click += одновимірнийМасивToolStripMenuItem_Click;
+            // 
+            // двовимірнийМасивToolStripMenuItem
+            // 
+            двовимірнийМасивToolStripMenuItem.Name = "двовимірнийМасивToolStripMenuItem";
+            двовимірнийМасивToolStripMenuItem.Size = new Size(244, 26);
+            двовимірнийМасивToolStripMenuItem.Text = "Двовимірний масив";
+            двовимірнийМасивToolStripMenuItem.Click += двовимірнийМасивToolStripMenuItem_Click;
+            // 
+            // unitTestToolStripMenuItem
+            // 
+            unitTestToolStripMenuItem.Name = "unitTestToolStripMenuItem";
+            unitTestToolStripMenuItem.Size = new Size(80, 24);
+            unitTestToolStripMenuItem.Text = "Unit Test";
             // 
             // Form1
             // 
@@ -186,10 +224,14 @@
             Controls.Add(textBox3);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
+            Controls.Add(menuStrip1);
+            MainMenuStrip = menuStrip1;
             Name = "Form1";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ((System.ComponentModel.ISupportInitialize)chart1).EndInit();
+            menuStrip1.ResumeLayout(false);
+            menuStrip1.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -209,5 +251,10 @@
         private DataGridViewTextBoxColumn x;
         private DataGridViewTextBoxColumn y;
         private Button button1;
+        private MenuStrip menuStrip1;
+        private ToolStripMenuItem масивиToolStripMenuItem;
+        private ToolStripMenuItem одновимірнийМасивToolStripMenuItem;
+        private ToolStripMenuItem двовимірнийМасивToolStripMenuItem;
+        private ToolStripMenuItem unitTestToolStripMenuItem;
     }
 }
