@@ -51,5 +51,12 @@ namespace WinFormsLab1.net
         {
 
         }
+
+        private void unitTestToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            UnitTestForm f = new UnitTestForm();
+            f.Show();
+            this.Hide();
+        }
     }
 }

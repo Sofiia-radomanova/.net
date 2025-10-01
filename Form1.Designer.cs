@@ -207,6 +207,7 @@
             unitTestToolStripMenuItem.Name = "unitTestToolStripMenuItem";
             unitTestToolStripMenuItem.Size = new Size(80, 24);
             unitTestToolStripMenuItem.Text = "Unit Test";
+            unitTestToolStripMenuItem.Click += unitTestToolStripMenuItem_Click;
             // 
             // Form1
             // 
