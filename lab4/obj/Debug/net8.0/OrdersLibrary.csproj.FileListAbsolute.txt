@@ -1,0 +1,11 @@
+E:\3 курс\1 сем\.net\lab4\lab4\bin\Debug\net8.0\OrdersLibrary.deps.json
+E:\3 курс\1 сем\.net\lab4\lab4\bin\Debug\net8.0\OrdersLibrary.dll
+E:\3 курс\1 сем\.net\lab4\lab4\bin\Debug\net8.0\OrdersLibrary.pdb
+E:\3 курс\1 сем\.net\lab4\lab4\obj\Debug\net8.0\OrdersLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\3 курс\1 сем\.net\lab4\lab4\obj\Debug\net8.0\OrdersLibrary.AssemblyInfoInputs.cache
+E:\3 курс\1 сем\.net\lab4\lab4\obj\Debug\net8.0\OrdersLibrary.AssemblyInfo.cs
+E:\3 курс\1 сем\.net\lab4\lab4\obj\Debug\net8.0\OrdersLibrary.csproj.CoreCompileInputs.cache
+E:\3 курс\1 сем\.net\lab4\lab4\obj\Debug\net8.0\OrdersLibrary.dll
+E:\3 курс\1 сем\.net\lab4\lab4\obj\Debug\net8.0\refint\OrdersLibrary.dll
+E:\3 курс\1 сем\.net\lab4\lab4\obj\Debug\net8.0\OrdersLibrary.pdb
+E:\3 курс\1 сем\.net\lab4\lab4\obj\Debug\net8.0\ref\OrdersLibrary.dll

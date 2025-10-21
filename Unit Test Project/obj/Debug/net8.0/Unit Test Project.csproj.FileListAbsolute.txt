@@ -1,0 +1,114 @@
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\CoverletSourceRootsMapping_Unit Test Project
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\testhost.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\testhost.exe
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Unit Test Project.deps.json
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Unit Test Project.runtimeconfig.json
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Unit Test Project.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Unit Test Project.pdb
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\OrdersLibrary.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\OrdersLibrary.pdb
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\obj\Debug\net8.0\Unit Test Project.csproj.AssemblyReference.cache
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\obj\Debug\net8.0\Unit Test Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\obj\Debug\net8.0\Unit Test Project.AssemblyInfoInputs.cache
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\obj\Debug\net8.0\Unit Test Project.AssemblyInfo.cs
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\obj\Debug\net8.0\Unit Test Project.csproj.CoreCompileInputs.cache
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\obj\Debug\net8.0\Unit Tes.F9549552.Up2Date
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\obj\Debug\net8.0\Unit Test Project.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\obj\Debug\net8.0\refint\Unit Test Project.dll
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\obj\Debug\net8.0\Unit Test Project.pdb
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\obj\Debug\net8.0\Unit Test Project.genruntimeconfig.cache
+E:\3 курс\1 сем\.net\lab4\Unit Test Project\obj\Debug\net8.0\ref\Unit Test Project.dll
