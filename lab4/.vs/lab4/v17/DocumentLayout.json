@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCEACC8-C558-4CB0-B4AE-28ED5D59E45E}|..\\OrdersWpfApp\\OrdersWpfApp.csproj|e:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\orderswpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|e:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\models\\giftcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|solutionrelative:models\\giftcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|e:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCEACC8-C558-4CB0-B4AE-28ED5D59E45E}|..\\OrdersWpfApp\\OrdersWpfApp.csproj|e:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\orderswpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C638D4-765A-4AFE-8692-9AD3C4852F53}|..\\Unit Test Project\\Unit Test Project.csproj|e:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\unit test project\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|e:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\models\\ordercalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|solutionrelative:models\\ordercalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|e:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\models\\iorderproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|solutionrelative:models\\iorderproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|e:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\models\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|solutionrelative:models\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|e:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\models\\storeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|solutionrelative:models\\storeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|e:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\models\\onlineorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|solutionrelative:models\\onlineorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|e:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\models\\iclientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|solutionrelative:models\\iclientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|e:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{C81B8444-7869-4835-9E4D-80C6403873C6}|OrdersLibrary.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\OrdersWpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\OrdersWpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\OrdersWpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\OrdersWpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwHIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:52:46.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\OrdersWpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\OrdersWpfApp\\MainWindow.xaml",
+              "ToolTip": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\OrdersWpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "..\\OrdersWpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T09:52:16.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderCalculator.cs",
+              "DocumentMoniker": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\Models\\OrderCalculator.cs",
+              "RelativeDocumentMoniker": "Models\\OrderCalculator.cs",
+              "ToolTip": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\Models\\OrderCalculator.cs",
+              "RelativeToolTip": "Models\\OrderCalculator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:27:00.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GiftCard.cs",
+              "DocumentMoniker": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\Models\\GiftCard.cs",
+              "RelativeDocumentMoniker": "Models\\GiftCard.cs",
+              "ToolTip": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\Models\\GiftCard.cs",
+              "RelativeToolTip": "Models\\GiftCard.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:22:56.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StoreOrder.cs",
+              "DocumentMoniker": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\Models\\StoreOrder.cs",
+              "RelativeDocumentMoniker": "Models\\StoreOrder.cs",
+              "ToolTip": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\Models\\StoreOrder.cs",
+              "RelativeToolTip": "Models\\StoreOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:21:23.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderTests.cs",
+              "DocumentMoniker": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\Unit Test Project\\OrderTests.cs",
+              "RelativeDocumentMoniker": "..\\Unit Test Project\\OrderTests.cs",
+              "ToolTip": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\Unit Test Project\\OrderTests.cs",
+              "RelativeToolTip": "..\\Unit Test Project\\OrderTests.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAA/wGIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:34:44.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OnlineOrder.cs",
+              "DocumentMoniker": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\Models\\OnlineOrder.cs",
+              "RelativeDocumentMoniker": "Models\\OnlineOrder.cs",
+              "ToolTip": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\Models\\OnlineOrder.cs",
+              "RelativeToolTip": "Models\\OnlineOrder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:18:37.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:16:13.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IClientInfo.cs",
+              "DocumentMoniker": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\Models\\IClientInfo.cs",
+              "RelativeDocumentMoniker": "Models\\IClientInfo.cs",
+              "ToolTip": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\Models\\IClientInfo.cs",
+              "RelativeToolTip": "Models\\IClientInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:14:45.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICalculable.cs",
+              "DocumentMoniker": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\Models\\ICalculable.cs",
+              "RelativeDocumentMoniker": "Models\\ICalculable.cs",
+              "ToolTip": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\Models\\ICalculable.cs",
+              "RelativeToolTip": "Models\\ICalculable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:12:44.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderProperties.cs",
+              "DocumentMoniker": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\Models\\IOrderProperties.cs",
+              "RelativeDocumentMoniker": "Models\\IOrderProperties.cs",
+              "ToolTip": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\Models\\IOrderProperties.cs",
+              "RelativeToolTip": "Models\\IOrderProperties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:11:29.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "E:\\3 \u043A\u0443\u0440\u0441\\1 \u0441\u0435\u043C\\.net\\lab4\\lab4\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-10-13T18:46:43.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
